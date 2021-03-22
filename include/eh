@@ -1,0 +1,8 @@
+/*for (int cc=0; cc<curr_center.size(); cc++)
+	{
+		if (curr_center[cc][0]!=0 && curr_center[cc][1]!=0)
+		{
+			cluster_center.push_back({curr_center[cc][0],curr_center[cc][0]});
+			std::cout<<"I find new center!!!---dis"<<std::endl;
+		}
+	}*/
